@@ -5,7 +5,7 @@ all: clean
 	@node support/compile.js
 
 clean:
-	@rm chai-timers.js
+	@rm chai-null.js
 
 test:
 	@NODE_ENV=test ./node_modules/.bin/mocha \
