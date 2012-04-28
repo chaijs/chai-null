@@ -1,23 +1,21 @@
 {
-  "author": "Jake Luer <jake@alogicalparadox.com>",
-  "name": "chai-timers",
-  "description": "Allows the Chai Assertion library to create and measure timers.",
-  "version": "0.1.1",
+  "author": "Veselin Todorov <hi@vesln.com>",
+  "name": "chai-null",
+  "description": "Null Object Pattern",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chaijs/chai-timers.git"
+    "url": "git://github.com/chaijs/chai-null.git"
   },
-  "main": "./index",
+  "main": "./lib/chai-null",
   "scripts": {
     "test": "make test"
   },
-  "dependencies": {},
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "folio": "0.2.x"
   },
-  "optionalDependencies": {},
   "engines": {
     "node": "*"
   }
