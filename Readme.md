@@ -1,6 +1,6 @@
 # Chai Null
 
-This is a addon plugin for the [chai](http://github.com/logicalparadox/chai) assertion library. It is simple implementation
+This is a addon plugin for the [Chai Assertion Library](http://github.com/logicalparadox/chai). It is simple implementation
 of [Null Object Pattern](http://en.wikipedia.org/wiki/Null_Object_pattern) for Node.js and the browser.
 
 ## Installation
