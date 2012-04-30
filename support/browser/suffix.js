@@ -1,4 +1,4 @@
-  return require('timers');
+  return require('null');
 });
 
-chai.use(chai_timers);
+chai.use(chai_null);
