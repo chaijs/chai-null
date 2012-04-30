@@ -43,7 +43,7 @@ by [folio](https://github.com/logicalparadox/folio), a small JS packaging tool. 
 #### Build object from scratch:
 
 ```js
-var nullobj = chai.Null().method('foo').method('bar').create();
+var nullobject = chai.Null().method('foo').method('bar').create();
 ```
 
 #### Build object with null properties and methods that just return null:
