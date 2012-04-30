@@ -1,3 +1,12 @@
+/*!
+ * chai-null :: Null Object Pattern
+ *
+ * Chai.js Team - http://chaijs.com/
+ * Copyright (c) 2012 Veselin Todorov <hi@vesln.com>
+ *
+ * MIT Licensed
+ */
+
 /**
  * Register the plugin.
  */
