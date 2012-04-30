@@ -1,7 +1,7 @@
 {
   "author": "Veselin Todorov <hi@vesln.com>",
   "name": "chai-null",
-  "description": "Null Object Pattern",
+  "description": "Null Object Pattern implementation for the Chai Assertion Library",
   "version": "0.1.0",
   "repository": {
     "type": "git",
