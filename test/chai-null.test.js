@@ -9,7 +9,6 @@ if (!chai) {
 /**
  * Support.
  */
-var should = chai.should();
 var expect = chai.expect;
 
 describe('Chai Null', function() {
