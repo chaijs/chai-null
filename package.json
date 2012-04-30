@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/chaijs/chai-null.git"
   },
-  "main": "./lib/chai-null",
+  "main": "./lib/null",
   "scripts": {
     "test": "make test"
   },
