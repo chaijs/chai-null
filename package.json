@@ -1,7 +1,13 @@
 {
   "author": "Veselin Todorov <hi@vesln.com>",
   "name": "chai-null",
-  "keywords": ["chai", "chai-plugin", "browser", "object-constructors", "null"],
+  "keywords": [
+    "chai",
+    "chai-plugin",
+    "browser",
+    "object-constructors",
+    "null"
+  ],
   "description": "Null Object Pattern implementation for the Chai Assertion Library",
   "version": "0.1.0",
   "repository": {
@@ -13,7 +19,7 @@
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "2.5.0",
     "chai": "*",
     "folio": "0.2.x"
   },
